@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Tic Tac Toe button style -->
+    <style name="TicTacToeButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_gravity">fill</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+</resources>
